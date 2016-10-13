@@ -1,0 +1,23 @@
+{
+  "name": "grid-layout",
+  "authors": [
+    "mdibay1367 <mohammad.dibay@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "gridstack": "latest",
+    "angular": "angularjs#^1.5.8",
+    "angular-route": "^1.5.8",
+    "gridstack-angular": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
